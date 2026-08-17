@@ -1,0 +1,9 @@
+{
+    "version": "0.1.0",
+    "description": "Recursively search text files for a pattern, skipping binaries.",
+    "homepage": "https://github.com/joaoblyss/system-tools",
+    "license": "MIT",
+    "url": "https://raw.githubusercontent.com/joaoblyss/system-tools/v0.1.0/scripts/findtext.ps1",
+    "hash": "a24e04c6a7c91725dc24e9b6a72046e61ab854f159a930a72d103af0a8cdc4ee",
+    "bin": "findtext.ps1"
+}
